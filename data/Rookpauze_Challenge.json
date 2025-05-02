@@ -1,0 +1,24 @@
+{
+    "id": 5260,
+    "name": "Rookpauze Challenge",
+    "author": "AAAAAAAAAAAAAAA",
+    "creators": ["AAAAAAAAAAAAAAA"],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/DWK-eCfmW0Y",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+         {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/htPly0Qk6SQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/cxyAVV1fUPA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

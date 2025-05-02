@@ -1,0 +1,18 @@
+{
+    "id": 7639,
+    "name": "E",
+    "author": "SomeoneUnknown",
+    "creators": ["SomeoneUnknown"],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/D9qXDumg4gU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/uhllVIg0cpc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

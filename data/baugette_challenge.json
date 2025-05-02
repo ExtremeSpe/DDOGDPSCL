@@ -1,0 +1,30 @@
+{
+    "id": 3283,
+    "name": "baugette challenge",
+    "author": "baugette",
+    "creators": [],
+    "verifier": "SomeoneUnknown",
+    "verification": "https://youtu.be/OTMl1RrvDQA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=gMinl6FFfRY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/jjlpHxZtcsM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/Z-btNe0G3Ss",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

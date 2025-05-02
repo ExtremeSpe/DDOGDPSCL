@@ -1,0 +1,30 @@
+{
+    "id": 4286,
+    "name": "Eugene Challenge",
+    "author": "ElytraBlox",
+    "creators": ["ElytraBlox"],
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=RTBssqBmhz4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/f7G9S_EdWV0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=tHCYt6ZAH48",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/lMqhzckYQXY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

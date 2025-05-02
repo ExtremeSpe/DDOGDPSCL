@@ -1,0 +1,30 @@
+{
+    "id": 2335,
+    "name": "Wave Challenge",
+    "author": "spnv",
+    "creators": ["spnv"],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/7Qj9LSO2fvA?si=SdAyDSWM7hUU1Vty",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=Qm034_ZQSyo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=Ar0RhbTqxyE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/65GJ-hKvA2Q",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

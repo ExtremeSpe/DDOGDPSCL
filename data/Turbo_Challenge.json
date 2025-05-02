@@ -1,0 +1,18 @@
+{
+    "id": 5706,
+    "name": "Turbo Challenge",
+    "author": "plantis",
+    "creators": ["plantis"],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/fmPCXP4ksQE?si=EFi7pkZl2_No2ui3",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/p1P16QCOgF0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 4162,
+    "name": "a lil challenge",
+    "author": "baugette",
+    "creators": [],
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=Roo_C6yYfkU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/UkVJbldaW7g",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=ek2ggZ8Rw9w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/0VmxOtlWnuc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

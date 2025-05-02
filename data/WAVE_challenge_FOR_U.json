@@ -1,0 +1,30 @@
+{
+    "id": 1917,
+    "name": "WAVE challenge FOR U",
+    "author": "Dubiousert",
+    "creators": ["Dubiousert"],
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=bbWZPcKqVqk",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/WUVZ_PNt3dA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=UXwh1gPXLPA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/b3KLJkruvaI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

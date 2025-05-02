@@ -1,0 +1,36 @@
+{
+    "id": 1163,
+    "name": "Wave Challenge",
+    "author": "Minotaur256",
+    "creators": [],
+    "verifier": "Minotaur256",
+    "verification": " ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=hQsKXK5Bgto",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/W0JnGAwaVY4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/E-WuiKmez1w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/ykcydaak2T0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

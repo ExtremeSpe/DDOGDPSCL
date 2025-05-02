@@ -1,0 +1,18 @@
+{
+    "id": 2702,
+    "name": "Cuall",
+    "author": "WaterArch",
+    "creators": [],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/v5zNJUQ08mE?si=VUNl1ig6rd5pT0db",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=qI6w0ezsCJ4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

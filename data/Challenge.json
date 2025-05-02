@@ -1,0 +1,36 @@
+{
+    "id": 4506,
+    "name": "Challenge",
+    "author": "Guy",
+    "creators": [],
+    "verifier": "Guy",
+    "verification": " ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/aSl0ZCW7zS4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/tefLZG5-Xh0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/Ui5y05FSBfo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "spnv",
+            "link": "https://youtu.be/qpsSqIYVkNk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

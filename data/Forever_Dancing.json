@@ -1,0 +1,30 @@
+{
+    "id": 3764,
+    "name": "Forever Dancing",
+    "author": "Palomitas",
+    "creators": ["Palomitas"],
+    "verifier": "WaterArch",
+    "verification": "https://youtu.be/78f0I88WnXU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=ydqDuShAFqk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/vTGWtpKhkvM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/LlGr_Yt6clQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

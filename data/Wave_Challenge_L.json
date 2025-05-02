@@ -1,0 +1,30 @@
+{
+    "id": 2349,
+    "name": "Wave Challenge L",
+    "author": "27thLetter",
+    "creators": [],
+    "verifier": "27thLetter",
+    "verification": " ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=uRtWKi0H4gQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=f2yz5V0Ip5w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/-229AIDBNvs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

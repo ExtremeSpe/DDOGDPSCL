@@ -1,0 +1,36 @@
+{
+    "id": 7302,
+    "name": "Final Dance",
+    "author": "Space34",
+    "creators": ["Space34"],
+    "verifier": "LightingFurry",
+    "verification": "https://youtu.be/BihN3330c70?si=LLXacn6wcawZMBke",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=dX75RRndiHE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/7eaQdNPp8d0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=EKXc45UwaqY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/KCTdBSN1uKU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

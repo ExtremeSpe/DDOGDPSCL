@@ -1,0 +1,36 @@
+{
+    "id": 4942,
+    "name": "Chave Wallenge",
+    "author": "Leafitiliy",
+    "creators": [],
+    "verifier": "Leafitiliy",
+    "verification": " ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=c3AW9HWeOj0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/Xr0wCo8lHrE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://www.youtube.com/watch?v=dYymiwvhBTQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/luLZ2aFEyv0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

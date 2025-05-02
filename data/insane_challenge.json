@@ -1,0 +1,24 @@
+{
+    "id": 4442,
+    "name": "insane challenge",
+    "author": "therealphugdps",
+    "creators": ["therealphugdps"],
+    "verifier": "spnv",
+    "verification": "https://www.youtube.com/watch?v=-v3oitfuspA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/X5QRd3YF9pA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ExtremeSpe98",
+            "link": "https://youtu.be/4wCM7JwRn7g",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
