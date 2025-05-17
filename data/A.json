@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/Jt0tMM3PsrM",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
