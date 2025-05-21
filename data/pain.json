@@ -1,0 +1,18 @@
+{
+    "id": 8759,
+    "name": "PAIN",
+    "author": "SomeoneUnknown",
+    "creators": ["SomeoneUnknown"],
+    "verifier": "TurboFlash",
+    "verification": "https://youtu.be/BPI_1_UPXuI",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SomeoneUnknown",
+            "link": "https://youtu.be/ubHeN9nb_p4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
