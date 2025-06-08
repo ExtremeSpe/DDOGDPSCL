@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/cEDfaVcG0w8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
