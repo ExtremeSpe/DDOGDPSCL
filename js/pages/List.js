@@ -118,7 +118,7 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. 
                     </p>
                     <p>
-                        The recording must show the player hit the endwall, or the completion will be invalidated.
+                        The recording must show the "Level Complete" screen, or the completion will be invalidated.
                     </p>
                     <p>
                         If you have a question, join our discord server.
