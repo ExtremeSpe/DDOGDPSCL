@@ -1,0 +1,18 @@
+{
+    "id": 1900,
+    "name": "Kxi island",
+    "author": "Gdkxi",
+    "creators": ["Gdkxi"],
+    "verifier": "Dodecahedron",
+    "verification": "https://www.youtube.com/watch?v=LpJQWur_EuA",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=oZIhjTVjPc0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
