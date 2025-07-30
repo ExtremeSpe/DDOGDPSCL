@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "trickgmd",
+            "link": "https://youtube.com/shorts/gV5m4G2jP00?si=4KXNUirge8C_-bR9",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
