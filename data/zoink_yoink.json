@@ -1,0 +1,18 @@
+{
+    "id": 10378,
+    "name": "zoink yoink never clear pt 2",
+    "author": "TrickGMD",
+    "creators": [""],
+    "verifier": "TrickGMD",
+    "verification": "https://youtube.com/shorts/MmgoPMDIUrk?si=shSqkZ3Rbm6fmaae",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "WaterArch",
+            "link": "https://youtu.be/OjwV-Y6WVuU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
