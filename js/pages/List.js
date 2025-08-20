@@ -103,7 +103,7 @@ export default {
                         The level needs to be less than 30 seconds long.
                     </p>
                     <p>
-                        Level shouldn't have too spammy gp, for example ufo spam through the entire challenge.
+                        Level shouldn't be a consistency challenge.
                     </p>
                     <p>
                         New placement needs to be harder than currently baugette challenge.
