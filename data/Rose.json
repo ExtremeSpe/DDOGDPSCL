@@ -28,7 +28,7 @@
         },
         {
             "user": "ted",
-            "link": "https://www.youtube.com/watch?v=Mxycmx34J9s",
+            "link": "https://www.youtube.com/watch?v=s_G6aS-_3QI",
             "percent": 100,
             "hz": 165
         },
@@ -37,12 +37,6 @@
             "link": "https://youtu.be/Xut7fx-k5wM",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "Emeralduk",
-            "link": "https://www.youtube.com/watch?v=bFDFI9eUwWg",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
