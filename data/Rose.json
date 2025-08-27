@@ -25,6 +25,18 @@
             "link": "https://www.youtube.com/watch?v=pmgtGTSEEvU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ted",
+            "link": "https://www.youtube.com/watch?v=s_G6aS-_3QI",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "cheesedude",
+            "link": "https://youtu.be/Xut7fx-k5wM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
