@@ -2,11 +2,17 @@
     "id": 10703,
     "name": "Xycron",
     "author": "JPX",
-    "creators": ["JPX"],
+    "creators": [],
     "verifier": "JPX",
     "verification": "https://youtu.be/lrNwoiaEOWc?si=tEoQSTDDjW6dT0Y6",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "cheesedude",
+            "link": "https://youtu.be/KyRRY3Dzx6k",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
