@@ -19,6 +19,12 @@
             "link": "https://youtube.com/shorts/gV5m4G2jP00?si=4KXNUirge8C_-bR9",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/lMdDp0axiJk",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
