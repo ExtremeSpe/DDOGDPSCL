@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=SPmkUJDFwAg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "dummy",
+            "link": "https://youtu.be/FiuuF0MeI2A",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
