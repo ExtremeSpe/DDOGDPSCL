@@ -100,15 +100,6 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        The level needs to be less than 30 seconds long.
-                    </p>
-                    <p>
-                        Level shouldn't be a consistency challenge.
-                    </p>
-                    <p>
-                        New placement needs to be harder than currently baugette challenge.
-                    </p>
-                    <p>
                         You must have beaten the level the intendeed route (small skips are allowed, but skips which make the level easier aren't).
                     </p>
                     <p>
@@ -121,8 +112,22 @@ export default {
                         The recording must show the "Level Complete" screen, or the completion will be invalidated.
                     </p>
                     <p>
-                        If you have a question, join our discord server.
+                        Cheat indicator needs to be visible throught the entire recording as well as the endscreen.
                     </p>
+                    <h3>New Placement Requirements</h3>
+                    <p>
+                        The level needs to be less than 30 seconds long.
+                    </p>
+                    <p>
+                        Level shouldn't be a consistency challenge.
+                    </p>
+                    <p>
+                        New placement needs to be harder than currently <b>baugette challenge</b>.
+                    </p>
+                    <p>
+                        Reuploaded levels are prohibited unless the creator of said level is active in the gdps and the level isn't bad.
+                    </p>
+                    <h4>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a>.</h4>
                 </div>
             </div>
         </main>
