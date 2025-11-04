@@ -127,7 +127,9 @@ export default {
                     <p>
                         Reuploaded levels are prohibited unless the creator of said level is active in the gdps and the level isn't bad.
                     </p>
-                    <h4>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a>.</h4>
+                    <p>
+                        <b>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a>.</b>
+                    </p>
                 </div>
             </div>
         </main>
