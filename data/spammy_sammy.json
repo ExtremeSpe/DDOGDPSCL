@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Lobotomy",
+            "link": "https://www.youtube.com/watch?v=fiqdz58PWr0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
