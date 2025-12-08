@@ -61,6 +61,12 @@
             "link": "https://youtu.be/4CU8ektESfo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Lobotomy",
+            "link": "https://www.youtube.com/watch?v=O9hmbSFEZDI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
