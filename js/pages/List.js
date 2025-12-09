@@ -131,7 +131,7 @@ export default {
                         The level shouldn't be a copy of someone else's level except if it's edited to make it original in some way (different deco, some gp changes), as well as if creator of said challenge is active in the gdps.
                     </p>
                     <p>
-                        <b>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a>.</b>
+                        <b>If you have any questions, join our <a href="https://discord.gg/apWKAnhBE2">Discord Server</a> or contact @extremespe98 on Discord.</b>
                     </p>
                 </div>
             </div>
