@@ -67,6 +67,13 @@
             "link": "https://www.youtube.com/watch?v=_Th3jkXJJtI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Darkprism4GDPS",
+            "link": "https://youtu.be/04zn-2kGJ-8?si=I9mQ1LJvcGgokMLZ",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
