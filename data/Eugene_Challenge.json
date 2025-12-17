@@ -80,6 +80,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "REALpyeep",
+            "link": "https://youtu.be/nh1qkE0SGO0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
