@@ -93,6 +93,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "DenDen",
+            "link": "https://youtu.be/mVyrScPSwGQ&t=1m25s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
