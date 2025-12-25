@@ -86,6 +86,13 @@
             "link": "https://youtu.be/nh1qkE0SGO0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "viper8k",
+            "link": "https://youtu.be/k9xvl5scVF4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
